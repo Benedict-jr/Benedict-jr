@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Benedict-jr
+- 👋 Hi, I’m @technedict
 - 👀 I’m interested in Programming, IT, Chess, Anime 
 - 🌱 I’m currently learning Python,Web Design
 - 💞️ I’m looking to collaborate on Hivend
